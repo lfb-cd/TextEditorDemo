@@ -16,13 +16,17 @@ swift：textEditorDemo一个简单的富文本编辑器
  9.设置点击隐藏导航栏，设置滑动隐藏导航栏
  
  ####重要说明：
- 这个Demo有一个很大的BUG:创建新的一个文本就插入图片，保存时会崩掉。给已有文本添加图片就可以正常保存。我在网上到处找了好久也不知道怎么解决，反正我觉得莫名其妙。。如果你解决了希望能共享，谢谢！O(∩_∩)O~~
+ 这个Demo还有一些BUG:创建新的一个文本就插入图片，保存时会崩掉。给已有文本添加图片就可以正常保存。我在网上到处找了好久也不知道怎么解决，反正我觉得莫名其妙。。如果你解决了希望能共享，谢谢！O(∩_∩)O~~
               导入的两个framework是用于选取照片，以及拍照的
  联系方式:
       邮箱：lfb.cd@qq.com            QQ：962429707
-      还有我的微博号啦:lfb.cd
+      还有我的微博号:[我的微博](http://weibo.com/p/1005052009667563/home?from=page_100505&mod=TAB#place%20%E6%88%91%E7%9A%84%E5%BE%AE%E5%8D%9A)
                                                                                    by lifubing in CUIT
-                                                                              
+####项目地址
+	
+[github地址](https://github.com/lfb-cd/TextEditorDemo) 
+如果有更新微博上会发消息的:[我的微博](http://weibo.com/p/1005052009667563/home?from=page_100505&mod=TAB#place%20%E6%88%91%E7%9A%84%E5%BE%AE%E5%8D%9A)
+	                                                                              
 ####1.   更改字体：
 ```
 //更改字体大小：
@@ -223,6 +227,18 @@ self.navigationController?.hidesBarsOnTap = false           //设置点击隐藏
         self.text.textContainerInset = UIEdgeInsetsZero
         self.text.textContainer.lineFragmentPadding = 0
 ```
+	
+####项目地址
+	
+[github地址](https://github.com/lfb-cd/TextEditorDemo) 
+
+https://github.com/lfb-cd/TextEditorDemo 
+	
+如果有更新微博上会发消息的:[我的微博](http://weibo.com/p/1005052009667563/home?from=page_100505&mod=TAB#place%20%E6%88%91%E7%9A%84%E5%BE%AE%E5%8D%9A)
+	
+	
+	
+
 ####效果浏览:
 ![image](https://github.com/lfb-cd/TextEditorDemo/blob/master/IMG_0926.PNG) 
 
