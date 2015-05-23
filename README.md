@@ -223,7 +223,8 @@ self.navigationController?.hidesBarsOnTap = false           //设置点击隐藏
         self.text.textContainerInset = UIEdgeInsetsZero
         self.text.textContainer.lineFragmentPadding = 0
 ```
-效果浏览 ![image](https://github.com/lfb-cd/TextEditorDemo/blob/master/IMG_0926.PNG) 
+####效果浏览:
+![image](https://github.com/lfb-cd/TextEditorDemo/blob/master/IMG_0926.PNG) 
 
 
 （gif图片大约10MB）：
