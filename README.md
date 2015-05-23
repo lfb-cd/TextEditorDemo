@@ -245,4 +245,5 @@ https://github.com/lfb-cd/TextEditorDemo
 
 （gif图片大约10MB）：
 
-![image](https://github.com/lfb-cd/TextEditorDemo/blob/master/2015-05-23%2023_45_56.gif) 
+![image](https://github.com/lfb-cd/TextEditorDemo/blob/master/myTest-1.gif)
+![image](https://github.com/lfb-cd/TextEditorDemo/blob/master/TextEditor-2.gif) 
