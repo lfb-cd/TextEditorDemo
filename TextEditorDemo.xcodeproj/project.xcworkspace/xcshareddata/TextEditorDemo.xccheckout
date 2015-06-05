@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>49591E6C-6119-4C21-8B4F-8BF93CD96AA8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TextEditorDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B3151F8697654B7896AC61F3DA0EFA8B144220EF</key>
+		<string>https://github.com/lfb-cd/TextEditorDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TextEditorDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B3151F8697654B7896AC61F3DA0EFA8B144220EF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lfb-cd/TextEditorDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B3151F8697654B7896AC61F3DA0EFA8B144220EF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B3151F8697654B7896AC61F3DA0EFA8B144220EF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TextEditorDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>

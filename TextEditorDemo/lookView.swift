@@ -247,14 +247,17 @@ class lookView: UIViewController,UIImagePickerControllerDelegate,UITextViewDeleg
     /*
     //退出时判断是否保存数据
     */
-    override func viewWillDisappear(animated: Bool){
+    
+    @IBAction func cancel(sender: AnyObject) {
         if !toSave {
             context?.deleteObject(Data)
             context?.save(nil)
-            println("delete！")
         }
-
+        println("cancel")
+        self.navigationController?.popViewControllerAnimated(true)
+        NSNotificationCenter.defaultCenter().removeObserver(self)
     }
+    
     /*
     //此bool 标志是为了让键盘 出现和隐藏 成对出现，否则会出现跳出两次的情况.我也只有用这样的办法解决 = =
     // ps:如果你有更好的解决办法，希望能与我分享哦！上面有一个联系方式的

@@ -175,6 +175,11 @@
                     </view>
                     <navigationItem key="navigationItem" id="N8l-rx-cEj">
                         <nil key="title"/>
+                        <barButtonItem key="leftBarButtonItem" systemItem="cancel" id="sF3-bL-HC3">
+                            <connections>
+                                <action selector="cancel:" destination="ALD-0I-6AT" id="bG2-1m-ifE"/>
+                            </connections>
+                        </barButtonItem>
                         <barButtonItem key="rightBarButtonItem" systemItem="save" id="zQU-O9-HWz">
                             <connections>
                                 <action selector="save:" destination="ALD-0I-6AT" id="eLN-Eb-oik"/>
