@@ -16,16 +16,11 @@ swift：textEditorDemo一个简单的富文本编辑器
  9. 设置点击隐藏导航栏，设置滑动隐藏导航栏
  
 ####重要说明：
- 这个Demo还有一些BUG..如果你解决了希望能共享，谢谢！O(∩_∩)O~~
-         ####     导入的两个framework是用于选取照片，以及拍照的
+ 这个Demo可能还隐藏了一些BUG..如果你解决了希望能共享，谢谢！
+####     导入的两个framework是用于选取照片，以及拍照的
  联系方式:
       邮箱：lfb.cd@qq.com            QQ：962429707
-      还有我的微博号:[我的微博](http://weibo.com/p/1005052009667563/home?from=page_100505&mod=TAB#place%20%E6%88%91%E7%9A%84%E5%BE%AE%E5%8D%9A)
-                                                                                   by lifubing in CUIT
-####项目地址
-	
-[github地址](https://github.com/lfb-cd/TextEditorDemo) 
-如果有更新微博上会发消息的:[我的微博](http://weibo.com/p/1005052009667563/home?from=page_100505&mod=TAB#place%20%E6%88%91%E7%9A%84%E5%BE%AE%E5%8D%9A)
+      还有我的微博号:[lfb](http://weibo.com/p/1005052009667563/home?from=page_100505&mod=TAB#place%20%E6%88%91%E7%9A%84%E5%BE%AE%E5%8D%9A)
 	                                                                              
 ####1.   更改字体：
 ```
